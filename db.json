@@ -1,0 +1,19 @@
+{
+  "socialchanneltypes": [
+    {
+      "ChannelID": "8B47477E-1FAF-44F2-8228-8DD6E411B6C2",
+      "ChannelType": "Channel Type 1",
+      "Active": true
+    },
+    {
+      "ChannelID": "DC23FF4C-7B68-4712-8DE3-CE8C343DABA4",
+      "ChannelType": "Channel Type 2",
+      "Active": true
+    },
+    {
+      "ChannelID": "DB6B42A9-DD2D-4658-BFEA-5011A886A11E",
+      "ChannelType": "Channel Type 3",
+      "Active": true
+    }
+  ]
+}
